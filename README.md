@@ -42,7 +42,7 @@ pip install numpy matplotlib
 Run the script with Python:
 
 ```bash
-python analog_clock.py
+python clock.py
 ```
 
 This will open a window displaying the analog clock. The clock will automatically display your computer's current local time.
