@@ -2,6 +2,7 @@
 
 A customizable, real-time analog clock built with Python and Matplotlib.
 
+<img width="794" alt="image" src="https://github.com/user-attachments/assets/1a97f260-7347-4919-b8ad-1c1f5b4fc088" />
 
 ## Overview
 
